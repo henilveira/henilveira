@@ -27,4 +27,4 @@
   
 </div>
 
-![Snake animation](https://github.com/imrickss/imrickss/)
+![Snake animation](https://github.com/imrickss/)
