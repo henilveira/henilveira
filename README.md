@@ -20,7 +20,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6520a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Henrique+Ataide;Tenho+16+anos;Sou+de+Joinville;I+Estudo+Desenvolvimento+de+Sistemas;Seja+Bemvindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6520a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Henrique+Ataide.;Tenho+16+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Seja+Bemvindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imrickss&bg_color=222728&color=d6520a&line=d6520a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
