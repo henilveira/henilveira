@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6520a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Henrique+Ataide.;Tenho+17+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imrickss&bg_color=22272e&color=d6520a&line=d6520a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imrickss&bg_color=#0d1117&color=d6520a&line=d6520a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=imrickss&show_icons=true&count_private=true&hide_border=true&title_color=d6520a&icon_color=d6520a&text_color=d6520a&bg_color=22272e" alt="Henrique ataide github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrickss&layout=compact&hide_border=true&title_color=d6520a&text_color=d6520a&bg_color=22272e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=imrickss&show_icons=true&count_private=true&hide_border=true&title_color=d6520a&icon_color=d6520a&text_color=d6520a&bg_color=#0d1117" alt="Henrique ataide github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrickss&layout=compact&hide_border=true&title_color=d6520a&text_color=d6520a&bg_color=#0d1117" />
 </div>
 
 
