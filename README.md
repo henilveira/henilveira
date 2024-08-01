@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d144000&height=120&section=header"/> <!--HEADER-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=header"/> <!--HEADER-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1d144000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Henrique+Ataide.;Tenho+17+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Henrique+Ataide.;Tenho+17+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imrickss&bg_color=0d1117&color=1d144000&line=1d144000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imrickss&bg_color=0d1117&color=0077ff&line=0077ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=imrickss&show_icons=true&count_private=true&hide_border=true&title_color=1d144000&icon_color=1d144000&text_color=1d144000&bg_color=0d1117" alt="Henrique ataide github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrickss&layout=compact&hide_border=true&title_color=1d144000&text_color=1d144000&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=imrickss&show_icons=true&count_private=true&hide_border=true&title_color=0077ff&icon_color=0077ff&text_color=0077ff&bg_color=0d1117" alt="Henrique ataide github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrickss&layout=compact&hide_border=true&title_color=0077ff&text_color=0077ff&bg_color=0d1117" />
 </div>
 
 
@@ -32,5 +32,5 @@
 ![next.js](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TypeScript](https://shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d144000&height=120&section=footer"/> <!--FOOTER-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=footer"/> <!--FOOTER-->
 
