@@ -1,7 +1,7 @@
   <h1> Hey 👋, I'm Henrique!</h1>
 
 <h3 id="a-little-about-me">A little about me…</h3>
-<p>I’m a <strong>undergraduate computer science student and Frontend Developer</strong>  at <strong>Flowtec</strong>. I’m a <em>ML enthusiast</em> even though i write react code.<br></p>
+<p>I’m an <strong>undergraduate computer science student and Frontend Developer</strong>  at <strong>Flowtec</strong>. I’m a <em>ML enthusiast</em> even though i write react code.<br></p>
 <h3 id="a-few-quick-facts">A few quick start about me</h3>
 <ul>
 <li>🔭 &nbsp; I’m currently working with NextJs, Typescript, Azure DevOps and Docker.</li>
