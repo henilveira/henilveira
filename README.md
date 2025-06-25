@@ -1,4 +1,4 @@
-<h1 > Hey 👋, I'm Henrique!</h1>
+<h1> Hey 👋, I'm Henrique!</h1>
 
 <h3 id="a-little-about-me">A little about me…</h3>
 <p>I’m an <strong>undergraduate computer science student and Frontend Developer</strong>  at <strong>Flowtec</strong>. I’m a <em>ML enthusiast</em> even though i write react code.<br></p>
